@@ -1,0 +1,8 @@
+I was tired of looking for a simple rss feed reader, that actually JUST READS rss feeds. 
+
+usage:
+
+1. Install the app in your settings.INSTALLED_APPS
+2. Add your rss feed sources within /admin/
+3. Add a cron to update the feeds. 
+
